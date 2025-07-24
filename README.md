@@ -1,29 +1,27 @@
+
 <div align="center">
   <img src="https://i.pinimg.com/originals/2f/16/5c/2f165c123cc6aaaa3a5bd9a625d5b91a.gif" alt="anime-banner" width="100%" />
 </div>
 
 <h1 align="center">こんにちは!<br />
-✒️ Roi! Eu sou o Jadson-Borges 🎨</h2>
-
+✒️ Roi! Eu sou o Jadson-Borges 🎨</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&weight=700&duration=3000&pause=1000&color=7FFFD4&center=true&vCenter=true&width=750&lines=Sauda%C3%A7%C3%B5es%2C+viajante+do+frontend+e+backend%21;Sou+um+explorador+do+c%C3%B3digo+em+busca+de+conhecimento;Vamos+desvendar+as+ru%C3%ADnas+do+desenvolvimento+web;Navegar+pelos+mares+tempestuosos+da+tecnologia;E+construir+juntos+um+portal+seguro+para+o+Neder;Esquece+essa+ultima+parte.+hehe!" alt="Typing SVG" />
-
 </p>
 
-
-
-
-  ```javascript
-function helloWorld()
+```javascript
+function helloWorld() {
   console.log(" Estudante de desenvolvimento web fullstack
                 viciado em aprender, desenhar e escrever
                 em missão ninja para dominar o JavaScript! ");
 }
 ```
+
 ---
+
 <div align="center">
-  
+
 ![Jadson-Borges's Stats](https://github-readme-stats.vercel.app/api?username=Jadson-Borges&theme=dark&show_icons=true&hide_border=false&count_private=true)
 ![Jadson-Borges's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jadson-Borges&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
@@ -56,12 +54,12 @@ function helloWorld()
 
 ---
 
+<!-- GITHUB CONTRIBUTION SNAKE -->
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jadson-Borges/Jadson-Borges/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jadson-Borges/Jadson-Borges/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jadson-Borges/Jadson-Borges/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jadson-Borges/Jadson-Borges/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jadson-Borges/Jadson-Borges/output/github-contribution-grid-snake.svg" />
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jadson-Borges/Jadson-Borges/output/github-contribution-grid-snake.svg" />
 </picture>
-
 
 ---
 
@@ -74,8 +72,6 @@ function helloWorld()
   <img src="https://img.shields.io/badge/React-800080?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-6A0DAD?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-
-
 
 ---
 
@@ -93,11 +89,9 @@ function helloWorld()
     <img src="https://img.shields.io/badge/-Portfólio-20c997?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
 </p>
-
-
 </div>
 
 <div align="center">
   <em>“A prática leva à <strong>maestria</strong>. E <strong>bugs</strong> também.”</em>  <br /><br />
-   <img src="https://i.pinimg.com/originals/b1/7f/4c/b17f4c7acb442f3f1b99681be3c29d0b.gif" width="300px" alt="anime-gif-final" />
+  <img src="https://i.pinimg.com/originals/b1/7f/4c/b17f4c7acb442f3f1b99681be3c29d0b.gif" width="300px" alt="anime-gif-final" />
 </div>
