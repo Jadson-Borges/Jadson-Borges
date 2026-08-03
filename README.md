@@ -12,13 +12,15 @@ Eu sou o Jadson Borges
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&weight=700&duration=3500&pause=1000&color=7FFFD4&center=true&vCenter=true&width=900&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+C%23+e+.NET;Estudando+ASP.NET+Core+MVC+e+Blazor;Sempre+aprendendo+algo+novo.;Transformando+caf%C3%A9+em+c%C3%B3digo." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&weight=700&duration=3500&pause=1000&color=7FFFD4&center=true&vCenter=true&width=900&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+C%23+e+.NET;Estudando+ASP.NET+Core+MVC+e+Blazor;Sempre+aprendendo+algo+novo.;Transformando+caf%C3%A9+em+c%C3%B3digo." />
 </p>
 
 ```csharp
 public class Developer
 {
     public string Name => "Jadson Borges";
+
+    public string Role => "Desenvolvedor .NET";
 
     public string[] Stack =>
     [
@@ -31,9 +33,9 @@ public class Developer
         "MySQL"
     ];
 
-    public void Status()
+    public void Coding()
     {
-        Console.WriteLine("Sempre aprendendo e evoluindo 🚀");
+        Console.WriteLine("Sempre estudando e evoluindo 🚀");
     }
 }
 ```
@@ -49,17 +51,18 @@ Atualmente estudo e desenvolvo aplicações utilizando:
 - 💜 C#
 - 🌐 ASP.NET Core MVC
 - ⚡ Entity Framework Core
-- 🗄️ SQL Server e MySQL
+- 🗄️ SQL Server
+- 🐬 MySQL
 - 🧩 Blazor
 - 🔗 APIs REST
 
 Também trabalho diariamente com sistemas comerciais, adquirindo experiência em:
 
-- PDV
-- NFC-e
-- Integrações TEF
-- Correção de bugs
-- Desenvolvimento de novas funcionalidades
+- 🛒 PDV
+- 🧾 NFC-e
+- 💳 Integrações TEF
+- 🐞 Correção de bugs
+- 🚀 Desenvolvimento de novas funcionalidades
 
 Meu objetivo é evoluir constantemente como desenvolvedor .NET e criar soluções cada vez mais completas.
 
@@ -69,7 +72,7 @@ Meu objetivo é evoluir constantemente como desenvolvedor .NET e criar soluçõe
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jadson-Borges&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jadson-Borges&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jadson-Borges&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -93,9 +96,9 @@ Meu objetivo é evoluir constantemente como desenvolvedor .NET e criar soluçõe
 
 # 🚀 Projetos em desenvolvimento
 
-### 📌 SalesWebMVC
+## 📌 SalesWebMVC
 
-Projeto criado para aprofundar conhecimentos em:
+Projeto desenvolvido para aprofundar conhecimentos em:
 
 - ASP.NET Core MVC
 - Entity Framework Core
@@ -106,9 +109,9 @@ Projeto criado para aprofundar conhecimentos em:
 
 ---
 
-### 📌 Estudos em Blazor
+## 📌 Estudos em Blazor
 
-Projeto voltado ao aprendizado de:
+Projeto voltado para aprendizado de:
 
 - Componentes
 - Razor
@@ -119,12 +122,12 @@ Projeto voltado ao aprendizado de:
 
 ---
 
-<!-- GITHUB CONTRIBUTION SNAKE -->
+# 🐍 Contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jadson-Borges/Jadson-Borges/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jadson-Borges/Jadson-Borges/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Jadson-Borges/Jadson-Borges/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jadson-Borges/Jadson-Borges/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jadson-Borges/Jadson-Borges/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Jadson-Borges/Jadson-Borges/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
@@ -155,25 +158,25 @@ Projeto voltado ao aprendizado de:
 
 - 🍥 Apaixonado por tecnologia e cultura japonesa.
 - ✏️ Gosto de desenhar e escrever histórias.
-- 📖 Pretendo publicar uma HQ futuramente.
-- 💬 Sempre estudando algo novo.
-- 🎧 Hip-hop é minha trilha sonora enquanto programo.
+- 📖 Pretendo publicar minha própria HQ.
+- 💬 Sempre aprendendo novas tecnologias.
+- 🎧 Programo ouvindo hip-hop.
 
 ---
 
-# 🌐 Me encontre por aí
+# 🌐 Contato
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/jadson-borges-de-castro-5951492b3" target="_blank">
+<a href="https://www.linkedin.com/in/jadson-borges-de-castro-5951492b3">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/seu-usuario/" target="_blank">
+<a href="https://www.instagram.com/seu-usuario/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://seuportfolio.com" target="_blank">
+<a href="https://seuportfolio.com">
 <img src="https://img.shields.io/badge/Portfólio-20C997?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
@@ -187,6 +190,6 @@ Projeto voltado ao aprendizado de:
 
 <br>
 
-<img src="https://i.pinimg.com/originals/b1/7f/4c/b17f4c7acb442f3f1b99681be3c29d0b.gif" width="350" alt="Anime Final"/>
+<img src="https://i.pinimg.com/originals/b1/7f/4c/b17f4c7acb442f3f1b99681be3c29d0b.gif" width="350"/>
 
 </div>
