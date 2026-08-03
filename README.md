@@ -1,67 +1,67 @@
-# <div align="center">こんにちは! 👋</div>
-
-# <div align="center">Eu sou Jadson Borges</div>
-
 <div align="center">
-
-### 💻 Desenvolvedor C# • Estudante de ASP.NET Core MVC • Futuro Desenvolvedor Blazor
-
-*"Sempre aprendendo, sempre evoluindo."*
-
+  <img src="https://i.pinimg.com/originals/2f/16/5c/2f165c123cc6aaaa3a5bd9a625d5b91a.gif" alt="Anime Banner" width="100%" />
 </div>
+
+<h1 align="center">
+こんにちは! 👋 <br>
+Eu sou o Jadson Borges
+</h1>
+
+<h3 align="center">
+💜 Desenvolvedor C# • ASP.NET Core MVC • Estudando Blazor
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&weight=700&duration=3500&pause=1000&color=7FFFD4&center=true&vCenter=true&width=900&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+C%23+e+.NET;Estudando+ASP.NET+Core+MVC+e+Blazor;Sempre+aprendendo+algo+novo.;Transformando+caf%C3%A9+em+c%C3%B3digo." alt="Typing SVG" />
+</p>
+
+```csharp
+public class Developer
+{
+    public string Name => "Jadson Borges";
+
+    public string[] Stack =>
+    [
+        "C#",
+        ".NET",
+        "ASP.NET Core MVC",
+        "Blazor",
+        "Entity Framework Core",
+        "SQL Server",
+        "MySQL"
+    ];
+
+    public void Status()
+    {
+        Console.WriteLine("Sempre aprendendo e evoluindo 🚀");
+    }
+}
+```
 
 ---
 
-## 👨‍💻 Sobre mim
+# 👨‍💻 Sobre mim
 
 Sou apaixonado por tecnologia e estou construindo minha carreira como **Desenvolvedor .NET**.
 
-Atualmente meus estudos são voltados para o ecossistema Microsoft, desenvolvendo aplicações utilizando **C#**, **ASP.NET Core MVC**, **Entity Framework Core** e bancos de dados relacionais.
+Atualmente estudo e desenvolvo aplicações utilizando:
 
-Também venho estudando **Blazor**, buscando criar aplicações modernas utilizando C# tanto no backend quanto no frontend.
+- 💜 C#
+- 🌐 ASP.NET Core MVC
+- ⚡ Entity Framework Core
+- 🗄️ SQL Server e MySQL
+- 🧩 Blazor
+- 🔗 APIs REST
 
-Além dos estudos, trabalho diariamente com sistemas comerciais, adquirindo experiência em:
+Também trabalho diariamente com sistemas comerciais, adquirindo experiência em:
 
-* Sistemas ERP
-* PDV (Ponto de Venda)
-* NFC-e
-* Integrações TEF
-* SQL Server
-* MySQL
-* Correção de bugs
-* Desenvolvimento de novas funcionalidades
+- PDV
+- NFC-e
+- Integrações TEF
+- Correção de bugs
+- Desenvolvimento de novas funcionalidades
 
-Meu objetivo é evoluir constantemente até me tornar um desenvolvedor .NET completo.
-
----
-
-# 🚀 Atualmente estudando
-
-* ✅ C#
-* ✅ Programação Orientada a Objetos
-* ✅ ASP.NET Core MVC
-* ✅ Entity Framework Core
-* ✅ LINQ
-* ✅ SQL Server
-* ✅ MySQL
-* 🌱 Blazor
-* 🌱 Clean Architecture
-* 🌱 Design Patterns
-* 🌱 APIs REST
-
----
-
-# 🛠️ Tecnologias
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,mysql" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
-
-</p>
+Meu objetivo é evoluir constantemente como desenvolvedor .NET e criar soluções cada vez mais completas.
 
 ---
 
@@ -69,77 +69,124 @@ Meu objetivo é evoluir constantemente até me tornar um desenvolvedor .NET comp
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jadson-Borges\&show_icons=true\&theme=tokyonight\&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jadson-Borges&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jadson-Borges\&layout=compact\&theme=tokyonight\&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jadson-Borges&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📚 Projetos em desenvolvimento
+# 📚 Atualmente estudando
+
+- ✅ C#
+- ✅ Programação Orientada a Objetos
+- ✅ ASP.NET Core MVC
+- ✅ Entity Framework Core
+- 🌱 Blazor
+- 🌱 LINQ
+- 🌱 APIs REST
+- 🌱 Clean Architecture
+- 🌱 Design Patterns
+
+---
+
+# 🚀 Projetos em desenvolvimento
 
 ### 📌 SalesWebMVC
 
-Projeto desenvolvido para aprofundar os conhecimentos em:
+Projeto criado para aprofundar conhecimentos em:
 
-* ASP.NET Core MVC
-* Entity Framework Core
-* CRUD
-* LINQ
-* Injeção de Dependência
-* Arquitetura em Camadas
+- ASP.NET Core MVC
+- Entity Framework Core
+- CRUD
+- LINQ
+- Injeção de Dependência
+- Arquitetura em Camadas
 
 ---
 
 ### 📌 Estudos em Blazor
 
-Projeto destinado ao aprendizado de:
+Projeto voltado ao aprendizado de:
 
-* Componentes
-* Data Binding
-* Razor
-* Navegação
-* Consumo de APIs
-* Boas práticas
-
----
-
-# 🎯 Objetivos para 2026
-
-* ✔ Dominar C#
-* ✔ Dominar ASP.NET Core MVC
-* ✔ Aprender Blazor
-* ✔ Desenvolver APIs REST
-* ✔ Aplicar Clean Architecture
-* ✔ Criar projetos completos para portfólio
+- Componentes
+- Razor
+- Data Binding
+- Navegação
+- Consumo de APIs
+- Boas práticas
 
 ---
 
-# 🌎 Onde me encontrar
+<!-- GITHUB CONTRIBUTION SNAKE -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jadson-Borges/Jadson-Borges/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jadson-Borges/Jadson-Borges/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Jadson-Borges/Jadson-Borges/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+# 🛠️ Tecnologias
+
+### 💜 Backend
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,mysql&perline=4"/>
+</p>
 
-<a href="https://www.linkedin.com/in/jadson-borges-de-castro-5951492b3">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### 🎨 Frontend
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js&perline=4"/>
+</p>
+
+### ⚙️ Ferramentas
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github&perline=2"/>
 </p>
 
 ---
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jadson-Borges/Jadson-Borges/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jadson-Borges/Jadson-Borges/output/github-contribution-grid-snake.svg">
-<img alt="Snake animation" src="https://raw.githubusercontent.com/Jadson-Borges/Jadson-Borges/output/github-contribution-grid-snake.svg">
-</picture>
+# 🌸 Um pouco mais sobre mim
+
+- 🍥 Apaixonado por tecnologia e cultura japonesa.
+- ✏️ Gosto de desenhar e escrever histórias.
+- 📖 Pretendo publicar uma HQ futuramente.
+- 💬 Sempre estudando algo novo.
+- 🎧 Hip-hop é minha trilha sonora enquanto programo.
+
+---
+
+# 🌐 Me encontre por aí
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/jadson-borges-de-castro-5951492b3" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/seu-usuario/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://seuportfolio.com" target="_blank">
+<img src="https://img.shields.io/badge/Portfólio-20C997?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-> **"Grandes sistemas não são construídos de uma vez, mas linha por linha de código."**
+> **"A prática leva à maestria. E bugs também."** ⚔️
 
-⭐ Obrigado por visitar meu perfil!
+<br>
+
+<img src="https://i.pinimg.com/originals/b1/7f/4c/b17f4c7acb442f3f1b99681be3c29d0b.gif" width="350" alt="Anime Final"/>
 
 </div>
