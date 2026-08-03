@@ -68,18 +68,6 @@ Meu objetivo é evoluir constantemente como desenvolvedor .NET e criar soluçõe
 
 ---
 
-# 📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jadson-Borges&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jadson-Borges&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 📚 Atualmente estudando
 
 - ✅ C#
